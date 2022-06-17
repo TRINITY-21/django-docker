@@ -1,0 +1,17 @@
+.env
+
+bin
+include
+lib
+local
+share
+__pycache__
+media
+.vscode
+.idea
+env
+debate_article_entries
+.autogit
+.vscode
+lib64
+venv
